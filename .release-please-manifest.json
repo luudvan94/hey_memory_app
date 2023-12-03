@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "bumpMinorPreMajor": true,
+  "branches": ["main"],
+  "plugins": ["@release-please/semantic-release"]
+}
