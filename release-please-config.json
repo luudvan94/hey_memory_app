@@ -1,0 +1,4 @@
+{
+  "plugins": ["@release-please/semantic-release"],
+  "releaseType": "semantic"
+}
