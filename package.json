@@ -10,7 +10,6 @@
     "check-typescript": "tsc --noEmit",
     "check-eslint": "eslint './src/**/*{js,ts,jsx,tsx}'",
     "lint": "yarn check-typescript && yarn check-eslint",
-    "release": "release-please",
     "prepare": "husky install"
   },
   "dependencies": {
