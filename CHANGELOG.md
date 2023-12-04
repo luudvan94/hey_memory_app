@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/luudvan94/hey_memory_app/compare/v1.0.0...v1.1.0) (2023-12-04)
+
+
+### Features
+
+* test release ([dfea04b](https://www.github.com/luudvan94/hey_memory_app/commit/dfea04b3281ad87f16a9aa18b7830a1d9cd34d07))
+
 ## 1.0.0 (2023-12-04)
 
 
